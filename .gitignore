@@ -1,0 +1,13 @@
+data
+!utils/data
+venv
+saved_videos
+.idea
+__pycache__
+scratch
+utils/__pycache__
+utils/__pycache__/utils.cpython-310.pyc
+xmem
+checkpoints
+**running_config*.yaml
+configs
