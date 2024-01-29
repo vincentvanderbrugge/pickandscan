@@ -3,9 +3,9 @@
 Master thesis by Vincent van der Brugge.
 
 <p float="left">
-  <img src="/local/home/vincentv/code/test2/media/video5.gif" width="200" />
-  <img src="/local/home/vincentv/code/test2/media/overlay_all_global-cropped3.gif" width="200" /> 
-  <img src="/local/home/vincentv/code/test2/media/outputs_data1404.png" width="156" />
+  <img src="media/video5.gif" width="200" />
+  <img src="media/overlay_all_global-cropped3.gif" width="200" /> 
+  <img src="media/outputs_data1404.png" width="156" />
 </p>
 
 # Setup
