@@ -1,0 +1,12 @@
+input: /local/home/vincentv/Downloads/2024-01-01--14-04-08.r3d
+scene_dir: /local/home/vincentv/code/motion_segment2/data/data0101_1404
+xmem_model_path: /local/home/vincentv/code/motion_segment2/checkpoints/xmem_saves/XMem.pth
+track_separation:
+    minimum_track_length: 100
+best_frame_selection:
+    iou_threshold: 0.75
+xmem:
+    save_active_gif: true
+non_maximum_suppression:
+    stride: 10
+    threshold: 0.6

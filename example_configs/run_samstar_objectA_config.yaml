@@ -1,0 +1,6 @@
+scene_dir: /local/home/vincentv/code/motion_segment2/data/data0101_1404
+sam_model_path: /local/home/vincentv/code/motion_segment2/checkpoints/sam_vit_h_4b8939.pth
+xmem_model_path: /local/home/vincentv/code/motion_segment2/checkpoints/xmem_saves/XMem.pth
+object_id: 0
+segmentation_frame: 20
+ground_truth_object_mask: /local/home/vincentv/code/motion_segment2/data/data0101_1404/segmentation_baseline/ground_truth_obj0_20.png

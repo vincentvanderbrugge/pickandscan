@@ -1,0 +1,21 @@
+scene_dir: /local/home/vincentv/code/motion_segment2/data/data0103_1210
+bundlesdf_output_dir: /local/home/vincentv/Documents/evaluation/data0103_1210/bundlesdf_input_data0103_1210_object0_activeframes_s5
+ground_truth_model: /local/home/vincentv/code/motion_segment2/data/gt_models/lotion_simple.obj
+reconstructed_model: /local/home/vincentv/Documents/evaluation/data0103_1210/bundlesdf_input_data0103_1210_object0_activeframes_s5/textured_mesh.obj
+icp:
+    termination_threshold: 0.02
+    num_sample_points: 1000
+evaluation_frame: 788
+ground_truth_placement:
+    position:
+        x: -0.402902
+        y: 0.058289
+        z: 0.362983
+    rotation:
+        x: 161.612
+        y: 77.9005
+        z: 187.341
+    scale:
+        x: 0.001005
+        y: 0.001005
+        z: 0.001005
