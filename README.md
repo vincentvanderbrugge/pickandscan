@@ -3,8 +3,8 @@
 Master thesis by Vincent van der Brugge.
 
 <p float="left">
-  <img src="media/video3.gif" width="200" />
-  <img src="media/overlay_all_global-cropped2.gif" width="200" /> 
+  <img src="media/video5.gif" width="200" />
+  <img src="media/overlay_all_global-cropped3.gif" width="200" /> 
   <img src="media/outputs_data1404.png" width="156" />
 </p>
 
